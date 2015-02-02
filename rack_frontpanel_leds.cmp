@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-02-02T03:07:57 CET
+Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-02-02T06:27:56 CET
 
 BeginCmp
 TimeStamp = /54CEBC30;
@@ -54,6 +54,27 @@ TimeStamp = /54CECE7A;
 Reference = D8;
 ValeurCmp = LED_RGB_COMMON_ANODE;
 IdModule  = SMD:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF08FD;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0AF7;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0BE4;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
 EndCmp
 
 BeginCmp
