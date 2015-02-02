@@ -1,0 +1,6 @@
+[submodule "Misc.pretty"]
+	path = Misc.pretty
+	url = ../Misc.pretty
+[submodule "lib/SMD.pretty"]
+	path = lib/SMD.pretty
+	url = ../SMD.pretty
